@@ -3,8 +3,8 @@ class Addition {
         int a = 10;
         int b = 20;
 
-        int sum = a + b;
+        int sum = a * b;
 
-        System.out.println("Addition of two numbers is: " + sum);
+        System.out.println("Multiplication of two numbers is: " + sum);
     }
 }
